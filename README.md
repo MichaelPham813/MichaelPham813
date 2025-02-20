@@ -1,5 +1,8 @@
 # 💫 About Me:
-My name is Duc Pham, and I'm an IT graduate, who's currently studying at Cambrian College for Business Analytics. I earned my engineering degree in information technology at Hutech. I have a strong foundation in programming, and while studying at Cambrian College, I have reinforced my SQL knowledge and picked up skills such as Python, R, Pandas, Tableau, and Power BI.
+Hi there! 👋 I'm Duc Pham
+I'm an IT graduate with a strong foundation in programming, currently diving deeper into Business Analytics at Cambrian College. I earned my Engineering Degree in Information Technology from HUTECH, and along the way, I've strengthened my SQL skills and picked up tools like Python, R, Pandas, Tableau, and Power BI.
+
+I'm passionate about data analysis, visualization, and turning raw data into meaningful insights. I'm always eager to learn and work on new projects—let's connect and collaborate!
 
 
 ## 🌐 Socials:
